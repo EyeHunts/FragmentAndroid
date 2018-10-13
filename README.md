@@ -1,3 +1,3 @@
 # FragmentAndroid
 Android Fragment Example
-Complete Tutorial http://tutorial.eyehunt.in/android/creating-using-fragments-example/
+Complete Tutorial https://tutorial.eyehunts.com/android/creating-using-fragments-example/
